@@ -1,6 +1,6 @@
 package com.desiertofirewall.hackason.backend.models;
 
-import java.util.Date;
+import java.time.LocalDate;
 import java.util.List;
 
 import lombok.AllArgsConstructor;
@@ -18,17 +18,17 @@ public class Program {
     private boolean isPublic;
     private String category;
     private String url;
-    private Date updatedAt;
+    private LocalDate updatedAt;
     private List<String> inScope;
     private List<String> outScope;
     private Rewards rewards;
     private String policyUrl;
-    private Date launchDate;
+    private LocalDate launchDate;
 
 
     @Data
     @AllArgsConstructor
-    public class Rewards {
+    public static class Rewards {
         private int critical;
         private int high;
         private int medium;
