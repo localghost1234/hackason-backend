@@ -7,20 +7,20 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.desiertofirewall.hackason.backend.models.Challenge;
-import com.desiertofirewall.hackason.backend.services.ChallengeService;
+import com.desiertofirewall.hackason.backend.services.ChallengesService;
 
 @RestController
 @RequestMapping("/api/challenges")
-public class ChallengeController {
+public class ChallengesController {
     
-    private final ChallengeService challengeService;
+    private final ChallengesService challengesService;
 
-    public ChallengeController(ChallengeService challengeService) {
-        this.challengeService = challengeService;
+    public ChallengesController(ChallengesService challengesService) {
+        this.challengesService = challengesService;
     }
 
     @GetMapping
     public List<Challenge> getAllChallenges() {
-        return challengeService.getAllChallenges();
+        return challengesService.getAllChallenges();
     }
 }

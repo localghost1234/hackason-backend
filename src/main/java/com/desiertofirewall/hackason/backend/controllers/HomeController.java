@@ -8,6 +8,6 @@ public class HomeController {
 
     @GetMapping("/")
     public String home() {
-        return "Hackason API Server\nUnauthorized Access WILL Be Punished!";
+        return "Hackason API Server. Unauthorized Access WILL Be Punished!";
     }
 }

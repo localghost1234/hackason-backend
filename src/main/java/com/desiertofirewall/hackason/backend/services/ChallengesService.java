@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.List;
 
 @Service
-public class ChallengeService {
+public class ChallengesService {
 
     private final List<Challenge> mockChallenges = Arrays.asList(
         new Challenge("xss-1", "DOM XSS Challenge", 

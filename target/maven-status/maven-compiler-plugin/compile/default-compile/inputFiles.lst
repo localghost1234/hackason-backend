@@ -1,5 +1,5 @@
-/home/vzaz/Documents/GitHub/hackason-backend/src/main/java/com/desiertofirewall/hackason/backend/HackasonApplication.java
-/home/vzaz/Documents/GitHub/hackason-backend/src/main/java/com/desiertofirewall/hackason/backend/controllers/ChallengeController.java
-/home/vzaz/Documents/GitHub/hackason-backend/src/main/java/com/desiertofirewall/hackason/backend/controllers/HomeController.java
-/home/vzaz/Documents/GitHub/hackason-backend/src/main/java/com/desiertofirewall/hackason/backend/models/Challenge.java
-/home/vzaz/Documents/GitHub/hackason-backend/src/main/java/com/desiertofirewall/hackason/backend/services/ChallengeService.java
+C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\controllers\ChallengeController.java
+C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\controllers\HomeController.java
+C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\HackasonApplication.java
+C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\models\Challenge.java
+C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\services\ChallengeService.java
