@@ -1,4 +1,4 @@
-package com.desiertofirewall.hackason.backend.controllers;  // Adjust to your package
+package com.desiertofirewall.hackason.backend.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
