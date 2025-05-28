@@ -1,5 +1,11 @@
-C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\controllers\ChallengeController.java
+C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\controllers\ChallengesController.java
 C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\controllers\HomeController.java
+C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\controllers\ProgramsController.java
+C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\controllers\TutorialsController.java
 C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\HackasonApplication.java
 C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\models\Challenge.java
-C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\services\ChallengeService.java
+C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\models\Program.java
+C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\models\Tutorial.java
+C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\services\ChallengesService.java
+C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\services\ProgramsService.java
+C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\services\TutorialsService.java

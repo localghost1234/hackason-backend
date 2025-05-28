@@ -4,16 +4,20 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import java.time.LocalDate;
+
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class Challenge {
+public class Tutorial {
     private String id;
     private String title;
-    private String description;
-    private String category;
+    private String url;
+    private String thumbnail;
+    private String duration;
     private String difficulty;
-    private int points;
-    private boolean isActive;
-    private String vmUrl;
+    private String tech;
+    private String category;
+    private String description;
+    private LocalDate datePosted;
 }

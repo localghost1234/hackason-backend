@@ -7,9 +7,9 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-@Data  // Lombok: Auto-generates getters, setters, toString(), etc.
-@NoArgsConstructor  // Lombok: Default constructor
-@AllArgsConstructor // Lombok: Constructor with all fields
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
 public class Program {
     private String id;
     private String name;
