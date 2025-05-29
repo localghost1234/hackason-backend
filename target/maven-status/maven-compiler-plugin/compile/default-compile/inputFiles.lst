@@ -1,4 +1,5 @@
-C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\controllers\AuthController.java
+C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\config\AppConfig.java
+C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\controllers\AuthenticationController.java
 C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\controllers\ChallengesController.java
 C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\controllers\HomeController.java
 C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\controllers\ProgramsController.java
@@ -7,7 +8,9 @@ C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewa
 C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\models\Challenge.java
 C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\models\Program.java
 C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\models\Tutorial.java
-C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\services\AuthService.java
+C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\models\User.java
+C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\repositories\UserRepository.java
+C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\services\AuthenticationService.java
 C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\services\ChallengesService.java
 C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\services\ProgramsService.java
 C:\Users\vicza\Projects\VSCode\hackason-backend\src\main\java\com\desiertofirewall\hackason\backend\services\TutorialsService.java
